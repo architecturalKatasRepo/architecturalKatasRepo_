@@ -15,3 +15,10 @@
 6.1 Access knowledge base
 7. Close problem and add info to knowledge base
 8. After ticket closes, customer receives link with survey
+9. Improve system elasticity
+10. Security 
+
+# Extra considerations
+
+1. auditability 
+2. loggability
