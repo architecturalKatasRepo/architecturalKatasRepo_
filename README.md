@@ -14,6 +14,7 @@ Table of content:
 - [Solution](Solution/Readme.md)
 	- [Solution Overview](Solution/SolutionOverview.md)
 	- [Assumptions](Solution/Assumptions.md)
+	- [Roles](Solution/Roles.md)
 	- [Approach Summary](Solution/SystemAppoach.md)
 	- [Tradeoffs](Solution/Tradeoffs.md)
 	- [Risks and Sensitive points](Solution/RisksAndSensitivePoints.md)
